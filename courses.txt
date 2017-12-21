@@ -1,0 +1,20 @@
+course_name: 新手指南之玩转实验楼, learned_count: 192995, image: https://dn-simplecloud.shiyanlou.com/ncn63.jpg
+course_name: Linux 基础入门（新版）, learned_count: 148696, image: https://dn-simplecloud.shiyanlou.com/ncn1.jpg
+course_name: C++ 实现俄罗斯方块, learned_count: 113, image: https://dn-simplecloud.shiyanlou.com/1513155659728.png
+course_name: PHP Socket编程, learned_count: 105, image: https://dn-simplecloud.shiyanlou.com/1512376269303.png
+course_name: PHP 实现验证码制作, learned_count: 151, image: https://dn-simplecloud.shiyanlou.com/1511870931736.png
+course_name: python 实现文字聊天室, learned_count: 2078, image: https://dn-simplecloud.shiyanlou.com/1510041002733.png
+course_name: 用flex/yacc开发一门编程语言, learned_count: 285, image: https://dn-simplecloud.shiyanlou.com/1508832928564.png
+course_name: 高级bash脚本编程指南, learned_count: 2908, image: https://dn-simplecloud.shiyanlou.com/1505093960707.png
+course_name: ROS机器人操作系统中级教程, learned_count: 485, image: https://dn-simplecloud.shiyanlou.com/1505728908751.png
+course_name: Sql注入基础原理介绍, learned_count: 2159, image: https://dn-simplecloud.shiyanlou.com/1500977787922.png
+course_name: R 语言基础入门, learned_count: 1253, image: https://dn-simplecloud.shiyanlou.com/1499827625083.png
+course_name: Github 快速上手实战教程, learned_count: 3367, image: https://dn-simplecloud.shiyanlou.com/1499681177825.png
+course_name: ROS机器人操作系统的安装、配置与初级教程, learned_count: 2984, image: https://dn-simplecloud.shiyanlou.com/1499311729491.png
+course_name: 《 Go 语言实战 》 快速开始一个 Go 程序, learned_count: 1753, image: https://dn-simplecloud.shiyanlou.com/1496803068553.png
+course_name: 流式实时日志分析系统——《Spark 最佳实践》, learned_count: 1361, image: https://dn-simplecloud.shiyanlou.com/1493349184140.png
+course_name: MyBatis 框架基础入门, learned_count: 1845, image: https://dn-simplecloud.shiyanlou.com/1493186889322.png
+course_name: 使用 Flume 收集数据, learned_count: 805, image: https://dn-simplecloud.shiyanlou.com/1492675941976.png
+course_name: Hadoop 图处理--《hadoop应用框架》, learned_count: 902, image: https://dn-simplecloud.shiyanlou.com/1490166815147.png
+course_name: k-近邻算法实现手写数字识别系统--《机器学习实战 》, learned_count: 3883, image: https://dn-simplecloud.shiyanlou.com/1489398527809.png
+course_name: Hadoop 分布式文件系统——导入和导出数据, learned_count: 1007, image: https://dn-simplecloud.shiyanlou.com/1495870969132.png
